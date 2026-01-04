@@ -1,0 +1,6 @@
+{
+    "data_path": "folder\file.xlsx",
+    "model_checkpoint": "google-bert/bert-base-uncased",
+    "batch_size": 32,
+    "output_path": "folder"
+    }
